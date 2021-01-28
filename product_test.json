@@ -1,8 +1,6 @@
 {
-	"ID": "00",
+	"imageurl": "https://i.pinimg.com/originals/7f/d4/3c/7fd43c3b54788b967ceb3c3579c399d1.jpg",
 	"name": "Reolink Argus 3 Wireless Outdoor Camera",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-	"colors": ["black"],
 	"details": {
 		"Resolution": "2 MP",
 		"Sensor": "Starlight CMOS",
@@ -11,5 +9,6 @@
 		"Compression": "H.264",
 		"Night recording": "10 m"
 	},
-	"imageurl": "https://i.pinimg.com/originals/7f/d4/3c/7fd43c3b54788b967ceb3c3579c399d1.jpg"
+	"description": "Reolink Argus 3 is a wireless, rechargable camera that connnects via WiFi to your phone allowing you to monitor over desired area. It can be installed on any surface without the need for drilling. Reolink Argus 3 also containts a reflector which allow for better movement detection during night-time. Although it contains a rechargeable battery, a solar panel will charge the camera if placed outside. The camera can be controlled either through your phone or via voice recognition to provide you the best experience.",
+	"price": "160$"
 }
